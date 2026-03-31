@@ -1,5 +1,7 @@
-numpy
+torch==2.3.0
+dgl==1.1.2
 pandas
+numpy
 networkx
-torch
+joblib
 matplotlib
